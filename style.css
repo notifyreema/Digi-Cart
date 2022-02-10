@@ -105,12 +105,14 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    display: block;
   }
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
- footer {
+
+  footer {
     position:static;
     bottom:0;
     left:0;
@@ -120,4 +122,3 @@
     text-align: center;
     font-weight:bold;
   }
-  
